@@ -1,0 +1,69 @@
+13:27:41.765 [main] INFO  testCases.TC003_LoginDDT = end of test case
+13:27:41.800 [main] INFO  testCases.TC003_LoginDDT = start of test case
+13:28:06.106 [main] INFO  testCases.TC003_LoginDDT = end of test case
+13:28:06.114 [main] INFO  testCases.TC003_LoginDDT = start of test case
+13:28:28.623 [main] INFO  testCases.TC003_LoginDDT = end of test case
+19:22:06.582 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+19:22:13.088 [main] INFO  testCases.TC002_Login = starting test case for account login
+19:22:17.995 [main] INFO  testCases.TC002_Login = clicked on account link
+19:22:21.499 [main] INFO  testCases.TC002_Login = clicked on login link
+19:22:27.346 [main] INFO  testCases.TC002_Login = providing credentials
+19:22:30.996 [main] INFO  testCases.TC002_Login = successful login
+19:24:33.116 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+19:24:40.596 [main] INFO  testCases.TC002_Login = starting test case for account login
+19:24:45.668 [main] INFO  testCases.TC002_Login = clicked on account link
+19:24:49.651 [main] INFO  testCases.TC002_Login = clicked on login link
+19:24:54.634 [main] INFO  testCases.TC002_Login = providing credentials
+19:24:58.131 [main] INFO  testCases.TC002_Login = successful login
+19:25:33.903 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+19:25:39.053 [main] INFO  testCases.TC001_AccountRegistration = starting test case for account registration
+19:25:41.350 [main] INFO  testCases.TC001_AccountRegistration = clicked on account link
+19:25:43.055 [main] INFO  testCases.TC001_AccountRegistration = clicked on register link
+19:25:44.736 [main] INFO  testCases.TC001_AccountRegistration = providing new user details
+19:25:49.203 [main] INFO  testCases.TC001_AccountRegistration = validated account created message
+19:25:54.227 [main] ERROR testCases.TC001_AccountRegistration = test failed
+19:26:46.561 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+19:26:52.590 [main] INFO  testCases.TC001_AccountRegistration = starting test case for account registration
+19:26:55.459 [main] INFO  testCases.TC001_AccountRegistration = clicked on account link
+19:26:57.005 [main] INFO  testCases.TC001_AccountRegistration = clicked on register link
+19:26:59.197 [main] INFO  testCases.TC001_AccountRegistration = providing new user details
+19:27:05.317 [main] INFO  testCases.TC001_AccountRegistration = validated account created message
+19:27:05.423 [main] INFO  testCases.TC001_AccountRegistration = Account registration test case completed
+19:27:51.590 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+19:27:57.516 [main] INFO  testCases.TC001_AccountRegistration = starting test case for account registration
+19:27:59.742 [main] INFO  testCases.TC001_AccountRegistration = clicked on account link
+19:28:01.051 [main] INFO  testCases.TC001_AccountRegistration = clicked on register link
+19:28:02.822 [main] INFO  testCases.TC001_AccountRegistration = providing new user details
+19:28:08.824 [main] INFO  testCases.TC001_AccountRegistration = validated account created message
+19:28:08.880 [main] INFO  testCases.TC001_AccountRegistration = Account registration test case completed
+19:28:16.822 [main] INFO  testCases.TC002_Login = starting test case for account login
+19:28:25.252 [main] INFO  testCases.TC002_Login = clicked on account link
+19:28:28.994 [main] INFO  testCases.TC002_Login = clicked on login link
+19:28:44.812 [main] INFO  testCases.TC002_Login = providing credentials
+19:28:49.973 [main] INFO  testCases.TC002_Login = successful login
+22:11:11.044 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+22:11:18.933 [main] INFO  testCases.TC002_Login = starting test case for account login
+22:11:24.407 [main] INFO  testCases.TC002_Login = clicked on account link
+22:11:27.901 [main] INFO  testCases.TC002_Login = clicked on login link
+22:11:34.885 [main] INFO  testCases.TC002_Login = providing credentials
+22:11:40.499 [main] INFO  testCases.TC002_Login = successful login
+22:14:42.573 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+22:14:51.228 [main] INFO  testCases.TC002_Login = starting test case for account login
+22:14:57.561 [main] INFO  testCases.TC002_Login = clicked on account link
+22:15:01.781 [main] INFO  testCases.TC002_Login = clicked on login link
+22:15:08.421 [main] INFO  testCases.TC002_Login = providing credentials
+22:15:15.606 [main] INFO  testCases.TC002_Login = successful login

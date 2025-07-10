@@ -1,0 +1,73 @@
+22:15:59.109 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+22:16:06.780 [main] INFO  testCases.TC002_Login = starting test case for account login
+22:16:13.519 [main] INFO  testCases.TC002_Login = clicked on account link
+22:16:17.576 [main] INFO  testCases.TC002_Login = clicked on login link
+22:16:25.106 [main] INFO  testCases.TC002_Login = providing credentials
+17:59:29.590 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+17:59:36.878 [main] INFO  testCases.TC002_Login = starting test case for account login
+17:59:41.623 [main] INFO  testCases.TC002_Login = clicked on account link
+17:59:45.086 [main] INFO  testCases.TC002_Login = clicked on login link
+17:59:50.106 [main] INFO  testCases.TC002_Login = providing credentials
+19:00:16.171 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+19:01:40.364 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+19:01:46.489 [main] INFO  testCases.TC002_Login = starting test case for account login
+19:01:51.129 [main] INFO  testCases.TC002_Login = clicked on account link
+19:01:54.863 [main] INFO  testCases.TC002_Login = clicked on login link
+19:02:01.461 [main] INFO  testCases.TC002_Login = providing credentials
+19:02:07.685 [main] INFO  testCases.TC002_Login = successful login
+19:03:41.421 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+19:08:55.799 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Groups.xml
+
+19:09:03.003 [main] INFO  testCases.TC003_LoginDDT = start of test case
+19:09:15.659 [main] INFO  testCases.TC003_LoginDDT = end of test case
+19:09:15.741 [main] INFO  testCases.TC003_LoginDDT = start of test case
+19:09:39.590 [main] INFO  testCases.TC003_LoginDDT = end of test case
+19:09:39.604 [main] INFO  testCases.TC003_LoginDDT = start of test case
+19:10:08.458 [main] INFO  testCases.TC003_LoginDDT = end of test case
+19:10:08.539 [main] INFO  testCases.TC003_LoginDDT = start of test case
+19:10:40.017 [main] INFO  testCases.TC003_LoginDDT = end of test case
+22:55:18.400 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Docker-SeleniumGrid.xml
+
+22:57:31.577 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Docker-SeleniumGrid.xml
+
+22:59:30.114 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Docker-SeleniumGrid.xml
+
+22:59:53.292 [main] INFO  testCases.TC001_AccountRegistration = starting test case for account registration
+23:00:08.306 [main] INFO  testCases.TC001_AccountRegistration = clicked on account link
+23:00:11.979 [main] INFO  testCases.TC001_AccountRegistration = clicked on register link
+23:00:14.711 [main] INFO  testCases.TC001_AccountRegistration = providing new user details
+23:00:23.184 [main] INFO  testCases.TC001_AccountRegistration = validated account created message
+23:00:23.540 [main] INFO  testCases.TC001_AccountRegistration = Account registration test case completed
+23:00:36.790 [main] INFO  testCases.TC002_Login = starting test case for account login
+23:00:45.257 [main] INFO  testCases.TC002_Login = clicked on account link
+23:00:49.574 [main] INFO  testCases.TC002_Login = clicked on login link
+23:00:56.849 [main] INFO  testCases.TC002_Login = providing credentials
+23:01:08.105 [main] INFO  testCases.TC002_Login = successful login
+23:01:43.745 [main] INFO  testCases.TC001_AccountRegistration = starting test case for account registration
+23:01:46.953 [main] INFO  testCases.TC001_AccountRegistration = clicked on account link
+23:01:51.313 [main] INFO  testCases.TC001_AccountRegistration = clicked on register link
+23:01:54.377 [main] INFO  testCases.TC001_AccountRegistration = providing new user details
+23:02:04.501 [main] INFO  testCases.TC001_AccountRegistration = validated account created message
+23:02:04.688 [main] INFO  testCases.TC001_AccountRegistration = Account registration test case completed
+23:02:33.837 [main] INFO  testCases.TC002_Login = starting test case for account login
+23:02:42.488 [main] INFO  testCases.TC002_Login = clicked on account link
+23:02:46.357 [main] INFO  testCases.TC002_Login = clicked on login link
+23:02:54.438 [main] INFO  testCases.TC002_Login = providing credentials
+23:03:07.516 [main] INFO  testCases.TC002_Login = successful login
+17:24:47.512 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\src\test\java\testCases\Docker-SeleniumGrid.xml
+

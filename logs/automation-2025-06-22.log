@@ -1,0 +1,58 @@
+20:07:14.369 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+20:07:14.376 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:07:14.377 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:07:14.377 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:07:14.377 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:07:14.378 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:07:14.378 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:07:14.380 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:07:14.380 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:07:14.380 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:07:14.380 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:07:14.382 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:07:14.382 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:07:14.382 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:07:14.382 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:07:14.383 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:07:14.384 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:07:14.385 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:07:14.385 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:07:14.385 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:07:14.385 [main] INFO  org.testng.internal.Utils = [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:07:14.391 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\Users\admin\AppData\Local\Temp\testng-eclipse--183144770\testng-customsuite.xml
+
+20:07:14.403 [main] INFO  org.testng.internal.Utils = [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+20:07:14.563 [main] INFO  org.testng.internal.Utils = [TestNG] Time taken by org.testng.reporters.jq.Main@cdc3aae: 63 ms
+20:07:14.579 [main] INFO  org.testng.internal.Utils = [TestNG] Time taken by org.testng.reporters.FailedReporter@21694e53: 16 ms
+20:07:14.591 [main] INFO  org.testng.internal.Utils = [TestNG] Time taken by org.testng.reporters.XMLReporter@355e34c7: 11 ms
+20:07:14.604 [main] INFO  org.testng.internal.Utils = [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1b28f282: 13 ms
+20:07:14.612 [main] INFO  org.testng.internal.Utils = [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4816c290: 8 ms
+20:07:14.612 [main] INFO  org.testng.internal.Utils = [TestNG] Time taken by org.testng.internal.ExitCodeListener@4940809c: 0 ms
+20:08:03.459 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\MultiOS.xml
+
+20:08:08.130 [main] INFO  testCases.TC002_Login = starting test case for account login
+20:08:14.925 [main] INFO  testCases.TC002_Login = clicked on account link
+20:10:22.688 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\MultiOS.xml
+
+20:10:27.605 [main] INFO  testCases.TC001_AccountRegistration = starting test case for account registration
+20:10:29.398 [main] INFO  testCases.TC001_AccountRegistration = clicked on account link
+20:10:30.905 [main] INFO  testCases.TC001_AccountRegistration = clicked on register link
+20:10:32.576 [main] INFO  testCases.TC001_AccountRegistration = providing new user details
+20:10:37.650 [main] INFO  testCases.TC001_AccountRegistration = validated account created message
+20:10:37.714 [main] INFO  testCases.TC001_AccountRegistration = Account registration test case completed
+20:13:12.426 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\MultiOS.xml
+
+20:13:17.007 [main] INFO  testCases.TC002_Login = starting test case for account login
+20:13:21.531 [main] INFO  testCases.TC002_Login = clicked on account link
+20:14:17.671 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\MultiOS.xml
+
+20:14:24.592 [main] INFO  testCases.TC002_Login = starting test case for account login
+20:14:29.572 [main] INFO  testCases.TC002_Login = clicked on account link
+20:19:25.054 [main] INFO  org.testng.internal.Utils = [TestNG] Running:
+  C:\AutomationWorkspace\HyBridFramework\MultiOS.xml
+
